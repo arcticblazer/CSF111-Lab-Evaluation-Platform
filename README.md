@@ -6,9 +6,9 @@ Input :
  - submission_path : Path to folder containing solution of students
 
 Working : 
-The script evaluates the model solution on provided input file and stores the output.
-Then all submissions are iterated over and executed, results of which are compared using checker.
-Checker compares results line for line stripping the spaces in the end.
+ - The script evaluates the model solution on provided input file and stores the output.
+ - Then all submissions are iterated over and executed, results of which are compared using checker.
+ - Checker compares results line for line stripping the spaces in the end.
 
 To Do - 
  - Generalize to allow multiple questions
